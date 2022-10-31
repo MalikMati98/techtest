@@ -1,0 +1,10 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const TOKEN = 'TOKEN';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const CLOSE_MODAL = 'CLOSE_MODAL';
+export const GET_CLASSES_DLIST = 'GET_CLASSES_DLIST';
+export const GET_PARENT_LIST = 'GET_PARENT_LIST';
+export const GET_CLASSES_DATA = 'GET_CLASSES_DATA';
+export const GET_ORG_LIST = 'GET_ORG_LIST';
+export const GET_USER = 'GET_USER';
